@@ -12,7 +12,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/JackMordaunt/icns"
+	"github.com/jackmordaunt/icns"
 	"github.com/pkg/errors"
 )
 
